@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "32459496735",
+    "firebase_url": "https://storybook-thumbelina.firebaseio.com",
+    "project_id": "storybook-thumbelina",
+    "storage_bucket": "storybook-thumbelina.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32459496735:android:54aac457d40f5b02",
+        "android_client_info": {
+          "package_name": "com.littlefox.storybook.thumbelina"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "32459496735-3r0plpnb4b67m4mr11brf4vrbcgil489.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2Qipfai8JQnd_MqPimRZPODcND3ujnAk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "32459496735-3r0plpnb4b67m4mr11brf4vrbcgil489.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
